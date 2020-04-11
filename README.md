@@ -12,3 +12,8 @@ Mindseen is an app made for mental well being which uses technologies like Micro
 - **Project Name**: MindSeen
 - **Short Project Description**: _A simple mental well being app to bring your energy back via quotes_
 - **Labels**: Microsoft, Azure, Emotion Recognition, Android, Java<br>
+
+## Interface
+![Signup](https://github.com/psifrous/Mindseen/blob/master/Images/Home.PNG)
+![Login](https://github.com/psifrous/Mindseen/blob/master/Images/login.PNG)
+![Home](https://github.com/psifrous/Mindseen/blob/master/Images/Home.PNG)
