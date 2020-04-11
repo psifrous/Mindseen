@@ -14,6 +14,7 @@ Mindseen is an app made for mental well being which uses technologies like Micro
 - **Labels**: Microsoft, Azure, Emotion Recognition, Android, Java<br>
 
 ## Interface
-![Signup](https://github.com/psifrous/Mindseen/blob/master/Images/Home.PNG)
-![Login](https://github.com/psifrous/Mindseen/blob/master/Images/login.PNG)
-![Home](https://github.com/psifrous/Mindseen/blob/master/Images/process.PNG)
+<p>
+ <li>![Signup](https://github.com/psifrous/Mindseen/blob/master/Images/Home.PNG)</li>
+ <li>![Login](https://github.com/psifrous/Mindseen/blob/master/Images/login.PNG)</li>
+ <li>![Home](https://github.com/psifrous/Mindseen/blob/master/Images/process.PNG)</li>
