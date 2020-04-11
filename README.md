@@ -16,4 +16,4 @@ Mindseen is an app made for mental well being which uses technologies like Micro
 ## Interface
 ![Signup](https://github.com/psifrous/Mindseen/blob/master/Images/Home.PNG)
 ![Login](https://github.com/psifrous/Mindseen/blob/master/Images/login.PNG)
-![Home](https://github.com/psifrous/Mindseen/blob/master/Images/Home.PNG)
+![Home](https://github.com/psifrous/Mindseen/blob/master/Images/process.PNG)
